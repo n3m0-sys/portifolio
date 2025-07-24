@@ -3,7 +3,7 @@
 Bem-vindo ao meu portfólio! Este projeto foi desenvolvido com foco na apresentação dos meus principais trabalhos e habilidades como desenvolvedor front-end.
 
 ## 📸 Preview
-> Você pode acessar o portfólio online [clicando aqui](https://seu-link-github-pages-ou-netlify).
+> Você pode acessar o portfólio online [clicando aqui](https://n3m0-sys.github.io/portifolio/).
 
 ---
 
@@ -55,12 +55,6 @@ Calculadora com:
 
 ---
 
-## 🧾 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e compartilhar. 😉
-
----
-
 ## 🚀 Autor
 
-Desenvolvido com 💻 e ☕ por **Lucas de Almeida (N3m0.sys)**  
+Desenvolvido com 💻 e ☕ por **Lucas de Almeida**  
